@@ -5,6 +5,13 @@ TECH STACK:
 # 💫 About Me:
 ⚙️ I'm currently working on<br>Building an LLM-powered career path platform using FastAPI, React, Supabase, and semantic search with FAISS & BERT.<br><br>🤝 I'm looking to collaborate on<br>AI/ML projects, real-time data apps, or GenAI tools that solve meaningful problems and have scalable impact.<br><br>🧠 I'm looking for help with<br>Advanced model fine-tuning, productionizing GenAI apps, and setting up cost-efficient cloud infra for ML pipelines.<br><br>🌱 I'm currently learning<br>RAG pipelines, MLOps with Airflow, Instructor-XL for embeddings, and multimodal GenAI tools like Gemini & Claude.<br><br>💬 Ask me about<br>Resume matching engines, LLM API integration, career assessment tools, or data science career strategy.<br><br>⚡ Fun fact<br>I once built a working ML prototype in 48 hours using OpenAI, Airtable, Vercel, and Postman — and deployed it live before the deadline.
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthchavann&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&theme=radical" alt="Parthchavann's GitHub stats" width="410"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthchavann&theme=radical&hide_border=true" alt="GitHub Streak" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthchavann&layout=compact&count_private=true&theme=radical" alt="Top Languages" width="410"/>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parthchavann/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parth.chavan@stonybrook.edu) 
