@@ -1,4 +1,4 @@
-Hey, I'm Parth Chavan!
+Hi, I'm Parth Chavan!
 
 TECH STACK:
 
