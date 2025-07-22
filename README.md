@@ -16,7 +16,6 @@ TECH STACK:
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthchavann&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&theme=radical" alt="Parthchavann's GitHub stats" width="410"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthchavann&theme=radical&hide_border=true" alt="GitHub Streak" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthchavann&layout=compact&count_private=true&theme=radical" alt="Top Languages" width="410"/>
 </p>
 
